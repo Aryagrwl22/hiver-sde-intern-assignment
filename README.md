@@ -109,7 +109,7 @@ Here are 12 non-obvious decisions made during this project:
 9. **Deterministic Escalation Rules:** Hardcoded `hardware_issue` and `account_and_billing` to bypass LLM auto-replies, ensuring safety compliance without trusting the LLM.
 10. **Evaluation Checkpointing:** Added CSV checkpointing to the evaluation loop so API interruptions wouldn't lose already-processed rows.
 11. **Deterministic Golden Sampling:** Sampled test examples deterministically (`Seed=42`) to ensure reproducible baseline comparisons.
-12. **Unified 1-5 Judge Metric:** Simplified the LLM-as-judge prompt to output a 1-5 scale across Correctness, Grounding, and Helpfulness to easily calculate Cohen's Kappa against human scores.
+12. **Unified 1-5 Judge Metric:** Simplified the LLM-as-judge prompt to output a 1-5 scale across Correctness, Grounding, Helpfulness, and Safety to easily calculate Cohen's Kappa against human scores.
 
 ## 11. Reproducibility & Output Files
 
