@@ -1,0 +1,6 @@
+{
+  "weighted_cohen_kappa": 0.07932011331444755,
+  "exact_agreement": 0.16,
+  "within_one_agreement": 0.76,
+  "samples_evaluated": 25
+}

@@ -1,0 +1,282 @@
+split,conversation_id,tweet_id,brand,created_at,customer_text,keyword_hint,intent,labeler,notes,is_gold
+train,2978127,2978127,DropboxSupport,2017-11-16 14:34:40+00:00,@118189 Hey kids! Explain to me why I can never see file size when someone sends me a shared folder of content? Name/Modified/SIZE!!!,other,,,,False
+train,1799798,1799798,DropboxSupport,2017-10-12 17:08:22+00:00,@dropboxsupport none of your contact forms are working please advise,other,,,,False
+train,987312,987312,DropboxSupport,2017-10-10 21:35:35+00:00,@DropboxSupport How do I stop the pop-up notifications on my computer? I only see the options to change email notifications.,product_info,,,,False
+train,1667072,1667072,DropboxSupport,2017-11-04 17:46:13+00:00,"@118189 #suggestion In Android app would be grateful a basic integrated image editor (just crop, rotate and a bit more). Very useful.",other,,,,False
+train,2542762,2542762,DropboxSupport,2017-11-16 03:11:40+00:00,"@DropboxSupport Hey guys what's going on with Smart Sync? I have v40.3.43. Finder shows full storage space local even when all files show ""online only""",other,,,,False
+train,1979826,1979826,DropboxSupport,2017-10-31 14:35:50+00:00,@DropboxSupport I live in Malaysia and I want to upgrade my DB acc. But you don't seem to have the cloud size that I need-500GB or 250GB How,other,,,,False
+train,1693261,1693261,DropboxSupport,2017-11-04 16:57:34+00:00,@DropboxSupport why haven't you answered my message &amp; tweet? Disappointed,complaint_feedback,,,,False
+train,1062910,1062910,DropboxSupport,2017-10-22 02:53:22+00:00,"@118189 Please lose the pink background on your logo - it looks awful. While you’re there, swap the iOS back to blue on white. Thanks.",other,,,,False
+train,2609736,2609736,DropboxSupport,2017-11-16 14:51:48+00:00,@DropboxSupport Hundreds of files deleted. Need help restoring. Our entire business is threatened by this. Is there some way to reach you by TELEPHONE??? I hate twitter and would like to SPEAK to someone. PLEASE.,escalation_human,,,,False
+train,1900227,1900227,DropboxSupport,2017-10-22 15:07:50+00:00,@DropboxSupport put the Darn green check mark back when syncing is complete- a white DB icon is not informative. #don'tfixwhatisn'tbroken,technical_issue,,,,False
+train,89002,89002,DropboxSupport,2017-11-29 20:46:30+00:00,"@DropboxSupport hi there. Was using Dropbox iOS app to write a text file today. Took a call, went back to app but file not there. Any ideas would be appreciated, was quite a length doc. Thanks.",other,,,,False
+train,103956,103956,DropboxSupport,2017-11-30 14:28:49+00:00,"@DropboxSupport Hi, I formtted one of ,my client's PC and she doesn't remember the login or email she used for dropbox, she has all of her companies data in that account, please how can we recover her account? IP maybe? Thanks!",account_access,,,,False
+train,1099453,1099453,DropboxSupport,2017-10-15 12:12:03+00:00,A shitty way to start my week thanks to @118189 👎🏼😭😭😭,other,,,,False
+train,1958701,1958701,DropboxSupport,2017-10-22 14:04:06+00:00,@118189 beware giving this company payment details as their systems’ not secure. Being done through fraud twice &amp; offered no compensation,billing_payment,,,,False
+train,1763311,1763311,DropboxSupport,2017-10-17 20:44:36+00:00,What's up @118189 ? https://t.co/vdan6AlQ8h,other,,,,False
+train,1980150,1980150,DropboxSupport,2017-10-26 12:45:17+00:00,@116029 AUTOMATING SENDING FILES TO THE CLOUD WITHOUT QUESTIONS,other,,,,False
+train,2092447,2092447,DropboxSupport,2017-11-06 16:35:47+00:00,@DropboxSupport I was billed for a year subscription on my credit card for a booster club for whom I am no longer an authorized member.,billing_payment,,,,False
+train,244341,244341,DropboxSupport,2017-10-05 12:09:04+00:00,@116029 how do I speak to one of you on a phone? You just overcharged me by £600 and I'd like it solved ASAP. Don't say 'email us',escalation_human,,,,False
+train,2124220,2124220,DropboxSupport,2017-11-06 22:46:59+00:00,@118189 Hi. I'd like to write an email about my experience of Smart Sync and why it's not worth the money. Who can I send this to please?,other,,,,False
+train,2043076,2043076,DropboxSupport,2017-10-03 18:06:58+00:00,Is it a common practice to only use @118189 “in the cloud” and not have a local Dropbox folder? Just ran into that sit. w/a client 3rd time,other,,,,False
+train,1362784,1362784,DropboxSupport,2017-10-13 19:42:41+00:00,"@DropboxSupport Hi! I tweeted a Q over 3 hrs ago, but no ans yet &amp; seeing replies to Qs sent only 1 hr ago - pls answer mine? Thx Shelley 🙂",other,,,,False
+train,241285,241285,DropboxSupport,2017-11-04 13:45:28+00:00,@DropboxSupport I CANT SEEM TO SIGN IN SO I CAN CANCEL MY 9.99 FEE EVERY MONTH.  JUST GET THE RUNAROUND ON YOUR SITE...GOING TO CONTACT bbb,account_access,,,,False
+train,2533864,2533864,DropboxSupport,2017-10-28 03:57:27+00:00,@DropboxSupport You might want to update your logo on GitHub. https://t.co/irasvAGSMb,other,,,,False
+train,410434,410434,DropboxSupport,2017-10-08 12:04:49+00:00,@DropboxSupport I used to have an 'offline' folder in Dropbox from which I could easily upload documents via the doc picker. 1/2,other,,,,False
+train,653984,653984,DropboxSupport,2017-11-21 00:04:53+00:00,Why is it that when I go to use my @118189 there's nothing but an MP3 of @29950 saying 'PLOT FLAGS!' in it? Life is weird.,other,,,,False
+train,1992486,1992486,DropboxSupport,2017-10-31 02:11:04+00:00,"Spent an hour+ selecting photos to delete from my @118189 only to have the app randomly CRASH and deselect each one. 😭 OVER 1,000 CLICKS.",technical_issue,,,,False
+train,2092394,2092394,DropboxSupport,2017-11-06 21:59:27+00:00,"@DropboxSupport Hi there, I've been trying for a few days to reactivate an account.  Tried __email__ and no luck.  Help?",account_access,,,,False
+train,1513062,1513062,DropboxSupport,2017-10-26 23:59:03+00:00,So 9 - count em - kernel panics today on a MBP - looks like @118189 is to blame. Each time it’s listed as the reason in the log.,other,,,,False
+train,495657,495657,DropboxSupport,2017-12-01 13:53:31+00:00,Hi @DropboxSupport you keep saying the my dropbox is almost full and it wont now sync - however it has almost 2GB left - why is this please? Bizarre,other,,,,False
+train,750226,750226,DropboxSupport,2017-10-21 18:11:27+00:00,"Donc @118189 Linux. Bug signalé depuis &gt; 1 ans. Pas de correctif, support évasif. C'est déplorable pour le prix du produit.",technical_issue,,,,False
+train,1356178,1356178,DropboxSupport,2017-10-18 15:05:51+00:00,@118189 @116029 @DropboxSupport Could you help with smartsync - it does not show up in the application https://t.co/2mXB4CQhYL,other,,,,False
+train,1316232,1316232,DropboxSupport,2017-10-27 03:58:46+00:00,"@DropboxSupport - Dropbox seems to either want to recognize my wife's iPhone 6, or my iPhone 5 - never both. What do I do? https://t.co/PSwWbstDvg",escalation_human,,,,False
+train,2149627,2149627,DropboxSupport,2017-10-18 22:47:15+00:00,@118189 is there a way to try showcases before paying for it?,other,,,,False
+train,2092443,2092443,DropboxSupport,2017-11-07 09:23:59+00:00,@118189 hey wuu2 WDC whats happnin,other,,,,False
+train,2901835,2901835,DropboxSupport,2017-11-28 15:09:41+00:00,@DropboxSupport is it possible to email files to a specific Dropbox folder?,other,,,,False
+train,929561,929561,DropboxSupport,2017-10-21 10:32:07+00:00,@118189 Why take away the icon checkmark? Such a helpful visual clue! Now gives the impression the app is disconnected or dead. Bad idea :(,other,,,,False
+train,615106,615106,DropboxSupport,2017-10-02 20:10:22+00:00,"I have done that twice, and unlinked the app.  NO difference, still simply says “connecting” https://t.co/Fr4v7DivN4",other,,,,False
+train,1980047,1980047,DropboxSupport,2017-10-29 00:57:12+00:00,"@116029- I have called, emailed and filled out a form. How do I get a response about my account?",account_access,,,,False
+train,2519210,2519210,DropboxSupport,2017-11-15 01:00:23+00:00,@DropboxSupport Dropbox can't establish secure internet connection,other,,,,False
+train,1156112,1156112,DropboxSupport,2017-07-06 14:23:20+00:00,@DropboxSupport Please add support for other U2F capable browsers like Opera and Firefox (via plugin). Having to use codes is a right pain!!,other,,,,False
+train,1101697,1101697,DropboxSupport,2017-10-22 19:23:58+00:00,@DropboxSupport Bring back the green checkbox!,other,,,,False
+train,1979792,1979792,DropboxSupport,2017-10-25 17:05:25+00:00,"Equipe @118189 por favor me devolva meu check verde. 
+
+Com amor",other,,,,False
+train,1830413,1830413,DropboxSupport,2017-10-14 11:30:17+00:00,"@118189 : my Mac is stuck “Connecting”, your status site says everything is okay, I rebooted my Mac with no luck. What do I do next?",other,,,,False
+train,52714,52714,DropboxSupport,2017-10-31 18:52:09+00:00,"Hi, me too, @DropboxSupport. Clients are assuming I did something badly. https://t.co/V6am37etMc",other,,,,False
+train,2863951,2863951,DropboxSupport,2017-11-27 19:09:18+00:00,"@DropboxSupport 
+Hello! I recently uploaded a video to my Dropbox account, but it has no thumbnail to the video. How do I fix this? Thanks!",account_access,,,,False
+train,1948519,1948519,DropboxSupport,2017-10-30 14:21:30+00:00,I can assure you I wont be using @118189 anymore. The hoops you have to go through to try and get a customer service connect is dumb,other,,,,False
+train,619205,619205,DropboxSupport,2017-10-03 23:06:48+00:00,"Looks like @118189 employees were too scared to speak up about these ugly logo colors, or were simply ignored: https://t.co/EJGa7SxcRo https://t.co/au1GlHGRU6",other,,,,False
+train,1062925,1062925,DropboxSupport,2017-10-21 20:59:50+00:00,"@118189 srsly smartsync only for pro acc? think twice, you lose loyalty",other,,,,False
+train,2365760,2365760,DropboxSupport,2017-11-11 16:13:55+00:00,@DropboxSupport How do I pay with debit card?,billing_payment,,,,False
+train,1763319,1763319,DropboxSupport,2017-10-17 20:52:10+00:00,"Once video is supported in @118189 Showcase, thats a game changer. Allow some sort of timecode commenting system (ala vimeo), we're good!",other,,,,False
+train,2766862,2766862,DropboxSupport,2017-11-21 00:50:08+00:00,How do you know when you are connected to the Internet? When your @118189 tray icon turns white!,other,,,,False
+train,2222845,2222845,DropboxSupport,2017-11-09 00:56:55+00:00,@DropboxSupport is there a way to find duplicate files via the mobile Dropbox app? I know I have quite a few and want to free up the space.,other,,,,False
+train,482204,482204,DropboxSupport,2017-11-27 23:53:42+00:00,"Dear @118189, I hate your browser interface.",other,,,,False
+train,193041,193041,DropboxSupport,2017-09-30 21:14:23+00:00,Looks like @118189 @DropboxSupport advertises on hatebart.  @151368 https://t.co/l6276FrwwD,other,,,,False
+train,1339451,1339451,DropboxSupport,2017-10-27 11:21:27+00:00,@DropboxSupport How can I control reminders for Showcase emails? I can see this annoying some clients who download docs without signing in,technical_issue,,,,False
+train,406584,406584,DropboxSupport,2017-10-07 12:01:06+00:00,@DropboxSupport stuff still broken in iOS 11. Can’t find photos and makes these stupid thumbnails for some reason. https://t.co/NSFixFyfQV,technical_issue,,,,False
+train,1205976,1205976,DropboxSupport,2017-10-25 00:49:26+00:00,Trying out @118189 Professional for the Smart Sync + Showcase. See if I can find good use for the Showcase feature. Smart Sync is ace 👌,product_info,,,,False
+train,1960098,1960098,DropboxSupport,2017-10-30 20:12:22+00:00,Why does @118189 have absolutely no way to talk to a human 🤦‍♂️🤦‍♂️🤦‍♂️ this is crazy!! I need to fix my account,account_access,,,,False
+train,1219569,1219569,DropboxSupport,2017-10-24 18:06:45+00:00,@DropboxSupport Another one: systray DropBox (Windows 10 Pro) has been saying this for the past few days (I've exited &amp; restarted Dropbox): https://t.co/KtM1lS7nkW,other,,,,False
+train,2168048,2168048,DropboxSupport,2017-11-07 23:35:47+00:00,"I’m stuck in a world where @DropboxSupport demands admin rights for my computer (never again, Dropbox...) and @636162 doesn’t actually sync filetypes I need synced by a file syncing service. And @29961 can’t be trusted to not-corrupt anything that’s not a Google Doc😫😓",complaint_feedback,,,,False
+train,2222823,2222823,DropboxSupport,2017-11-09 08:05:09+00:00,"@DropboxSupport There are some files that are not synced to one of my Dropbox clients. I Uninstalled, removed the entire folder, reinstalled and synced. Some files are missing in a folder. When I right-click, open on https://t.co/s2Adl1wlys, everything is there.
+Client on win10",other,,,,False
+train,1775609,1775609,DropboxSupport,2017-10-06 18:55:35+00:00,@DropboxSupport your camera uploads since iOS 11 are a mess. Uploading the wrong jpegs after key frame change (before wifi),other,,,,False
+train,685432,685432,DropboxSupport,2017-11-22 17:38:12+00:00,@DropboxSupport Why I can only restore today's versions of a file? All older versions are greyed out.,other,,,,False
+train,2970366,2970366,DropboxSupport,2017-11-29 20:57:49+00:00,"@DropboxSupport  We are using a ""Dropbox for Business"" reseller, and need to move to our own account. We are told this is impossible without disrupting our service? If so will need to leave Dropbox for good.",account_access,,,,False
+train,2327517,2327517,DropboxSupport,2017-11-12 22:57:33+00:00,@115993 preapproved payments have been raping my bank account for years .  It's hard  to get to the manage page and you have to cancel one by one.  Re billing is one of the dirtiest internet schemes I'm looking at you @118189,billing_payment,,,,False
+train,2124286,2124286,DropboxSupport,2017-11-07 16:59:21+00:00,"@DropboxSupport guys, if you cut my Dropbox Business service after i ask for a refund, you should at least give me said refund...",refund_cancellation,,,,False
+train,2119068,2119068,DropboxSupport,2017-11-07 10:02:57+00:00,"Hi @DropboxSupport, you've been taking a Premium subscription fee out of my Paypal for the last 10 months, after i cancelled. why?",refund_cancellation,,,,False
+train,2823327,2823327,DropboxSupport,2017-11-24 19:15:07+00:00,Am I the only one who hates the new way @118189 lists files out?,other,,,,False
+train,1000453,1000453,DropboxSupport,2017-11-17 18:18:06+00:00,@DropboxSupport I need to know how to sync two separate dropbox accounts to my computer. Or if this is possible.,account_access,,,,False
+train,1678385,1678385,DropboxSupport,2017-11-03 09:27:20+00:00,"@DropboxSupport paper was shared with me+30, moved it to a folder, now people r requesting access to my folder. Have I hijacked that paper?",other,,,,False
+train,2897460,2897460,DropboxSupport,2017-11-27 01:56:47+00:00,@118189 anyone that could DM me about my account i think ive been suspended but not sure why.,account_access,,,,False
+train,1824375,1824375,DropboxSupport,2017-10-15 09:30:40+00:00,@118189 Dropbox service is having heavy issue in UAE..desktop application not connecting and dropbox website in accessible @DropboxSupport,technical_issue,,,,False
+train,2331266,2331266,DropboxSupport,2017-11-12 09:39:50+00:00,"@DropboxSupport
+Hi, I have been facing this issue on my desktop which is running on Win 7 2GB ram 32 bit OS , I have tried offline installer as well as online installer ""Dropbox 38.4.27"",
+but it just hangs up forever on my desktop which shows (not responding). 
+Thanks",technical_issue,,,,False
+train,2609739,2609739,DropboxSupport,2017-11-16 14:37:26+00:00,"Thank you, @DropboxSupport, for the good customer service and quick turnaround time.",other,,,,False
+train,641280,641280,DropboxSupport,2017-11-20 15:42:15+00:00,@118189 when is the auto upload of camera photos coming back in the app? This is the #1 reason I use your product and the feature is gone!,product_info,,,,False
+train,1934111,1934111,DropboxSupport,2017-10-17 08:27:23+00:00,Hats off to @116029 for resolving my issue so professionally &amp; kindly. Very much appreciated. Previous tweet deleted. Spoke to soon,technical_issue,,,,False
+train,149047,149047,DropboxSupport,2017-11-23 20:57:10+00:00,@116029 are you having any blackfriday deals? Cybermonday?,other,,,,False
+train,192909,192909,DropboxSupport,2017-09-28 22:55:38+00:00,@118189 can you please address my issue? 8 days and still no resolution on my account,account_access,,,,False
+train,1824519,1824519,DropboxSupport,2017-10-15 08:13:38+00:00,Hey @118189 @DropboxSupport your servers are down. Please fix it so I can stop having a panic attack. Thank you!!! &lt;3,technical_issue,,,,False
+train,488492,488492,DropboxSupport,2017-11-28 17:13:10+00:00,@118189 this page is severely ugly/broken on Chrome/macOS https://t.co/s029AjF0eC https://t.co/T5vEw8vOu3,technical_issue,,,,False
+train,1831960,1831960,DropboxSupport,2017-10-14 11:47:41+00:00,"Is there a problem with @118189 at the moment? Cannot sign in... and I keep far too many important docs in there, one of which I need now!",account_access,,,,False
+train,2350036,2350036,DropboxSupport,2017-11-09 21:53:40+00:00,@dropboxsupport Where can I find the RSS feed of upload/sync events? Seems to have disappeared. I’m a paid Dropbox Plus subscriber.,other,,,,False
+train,1492087,1492087,DropboxSupport,2017-10-15 09:23:44+00:00,@118189 is there an expected response time for a complaint that was lodged last Wednesday for funds falsely taken?,other,,,,False
+train,983173,983173,DropboxSupport,2017-10-10 21:04:05+00:00,@DropboxSupport why did I just get a message that my space was reduced?,other,,,,False
+train,1090905,1090905,DropboxSupport,2017-10-22 19:28:05+00:00,@DropboxSupport ive lost my Green Ticks &amp; Blue Uploading MAC Finder,other,,,,False
+train,1466704,1466704,DropboxSupport,2017-10-31 11:49:23+00:00,@DropboxSupport my app has been syncing 3 files for days. Is there any way I can check which are these files? How can I fix it?,other,,,,False
+train,2926137,2926137,DropboxSupport,2017-11-13 21:53:34+00:00,@DropboxSupport my account is closed how can I get it back?,account_access,,,,False
+train,1857504,1857504,DropboxSupport,2017-10-17 14:20:29+00:00,"Hey @118189, having a number to call that only leads to telling people to go online to get help is actually not helpful at all.",other,,,,False
+train,615070,615070,DropboxSupport,2017-10-03 16:24:54+00:00,This @118189 redesign couldn’t be any bolder: https://t.co/WWjAhv58BH https://t.co/aTr6j8QJa9,other,,,,False
+train,2582366,2582366,DropboxSupport,2017-11-16 00:41:44+00:00,"@DropboxSupport If I want to search for video files with certain words in the title, created during a specific time period, how would I do so?",other,,,,False
+train,2187465,2187465,DropboxSupport,2017-11-08 23:33:50+00:00,"@118189 you guys have horrible CS, after waiting for a representative, I was told to restart the chat.  i'm just asking for a quick step by step to modify link settings on iphone.  shouldn't be that complicated.",escalation_human,,,,False
+train,878474,878474,DropboxSupport,2017-10-19 19:31:35+00:00,@DropboxSupport Good afternoon!  I just messaged you with a question regarding Smart Sync.,other,,,,False
+train,2929621,2929621,DropboxSupport,2017-11-13 20:37:26+00:00,"@DropboxSupport IMPOSSIBLE TO DOWNGRADE, NO CANCEL BUTTON T BE FOUND AT BOTTOM PLAN TAB PAGE! https://t.co/YdhRgsVPqf",refund_cancellation,,,,False
+train,52704,52704,DropboxSupport,2017-11-01 18:07:10+00:00,@DropboxSupport Did you guys change something with the iPhone App? Videos and other content won’t play regardless of internet connection.,escalation_human,,,,False
+train,1817858,1817858,DropboxSupport,2017-10-14 11:20:06+00:00,"@DropboxSupport Hello, I am getting this error 500 screen, can you help please? https://t.co/bTEAB6ordk",technical_issue,,,,False
+train,2163142,2163142,DropboxSupport,2017-10-17 16:36:49+00:00,So I have a @118189 account which used to be called 'Professional' (over the Regular account). I got to try out a new advertised feature &amp;…,account_access,,,,False
+train,1150357,1150357,DropboxSupport,2017-10-23 15:38:36+00:00,"@DropboxSupport 
+I am having problems signing in. 
+Does this happen often?",other,,,,False
+train,1520257,1520257,DropboxSupport,2017-11-03 14:47:47+00:00,@DropboxSupport i need help! please reply to my messages!,other,,,,False
+train,237290,237290,DropboxSupport,2017-09-22 16:01:56+00:00,@118189 how much work did it take to get into the new #iOS11 Files app?,other,,,,False
+train,2573121,2573121,DropboxSupport,2017-11-15 09:59:41+00:00,"I keep disliking the @118189 web client most recent layout. It feels weird. It should present the user with the regular folders as it previously was. Now I have to open DB, click Files, then select the folder I want — it’s UX is more verbose like.",other,,,,False
+train,2901832,2901832,DropboxSupport,2017-11-28 15:31:09+00:00,"@DropboxSupport Hey guys, how do you delete the sample team folders in Dropbox business? I'm no longer subscribed.",other,,,,False
+train,1433277,1433277,DropboxSupport,2017-10-14 14:59:15+00:00,@DropboxSupport how can I transfer responsibility for Billing to another team admin?,billing_payment,,,,False
+train,1508435,1508435,DropboxSupport,2017-11-03 10:27:29+00:00,"@DropboxSupport Hi support team. I've just accidentally deleted our whole dropbox and when I try to restore those files, the restoration reaches halfway and then website times out to an error page 'Error (4xx)'. How can I fix this?",technical_issue,,,,False
+train,1364594,1364594,DropboxSupport,2017-10-27 17:53:48+00:00,"@DropboxSupport having issues with password protected files and not being able to upload files. Help, please!",account_access,,,,False
+train,1817816,1817816,DropboxSupport,2017-10-14 11:46:23+00:00,@DropboxSupport Checked Down Detector site says service is down in my area while your status site says it's up.  Come Clean!  Up or Dow?!!!,technical_issue,,,,False
+train,833670,833670,DropboxSupport,2017-10-06 17:42:50+00:00,"@DropboxSupport You guys are infuriating with no phone support! I have a billing question not answered in your help forum, help!",billing_payment,,,,False
+train,1948499,1948499,DropboxSupport,2017-10-29 04:23:28+00:00,Any reason why the Dropbox app refuses to download update from the iOS app store? Just spins the icon for hours. @DropboxSupport,technical_issue,,,,False
+train,1043019,1043019,DropboxSupport,2017-10-10 08:51:11+00:00,"@118189 wow, accepting that 2GB free work Dropbox was a mistake. Disentangling my personal space from it was like slicing spaghetti #gone",other,,,,False
+train,658835,658835,DropboxSupport,2017-10-04 19:22:22+00:00,"Using new @118189 website on my mom's old laptop is a disaster. None of the ""links"" work, especially not Log in, no graceful degradation.",other,,,,False
+train,653957,653957,DropboxSupport,2017-11-21 13:17:24+00:00,"@118189 Hi guys, am trying to restore a previous version of a file in my Dropbox and am receiving an Error 500 message, is there anything you guys can do to help? Cheers!",technical_issue,,,,False
+train,1979868,1979868,DropboxSupport,2017-10-25 17:06:35+00:00,hey @118189 how do I link my account to twitter?,account_access,,,,False
+train,612340,612340,DropboxSupport,2017-09-29 20:05:55+00:00,"@118189, work on your UX, we mistakenly upgraded to your team plan, got billed annually and you refuse a refund?? #crooks #badbusiness",billing_payment,,,,False
+train,2092434,2092434,DropboxSupport,2017-11-06 17:52:55+00:00,"@DropboxSupport On getting access to sharing files from other dropboxes, you have to enter a CaptCHA, but there is no CaptCHA",other,,,,False
+train,1458883,1458883,DropboxSupport,2017-10-20 11:06:01+00:00,"@DropboxSupport  Need help with account set up and possible conversion to Business, but cant reach anyone...",account_access,,,,False
+train,1094013,1094013,DropboxSupport,2017-10-21 05:15:36+00:00,"@DropboxSupport antes figuraba con fleche verde significando que esta conectado a internet,",other,,,,False
+train,2370656,2370656,DropboxSupport,2017-11-12 14:42:56+00:00,"@DropboxSupport How can I change the option in dropbox that makes mac files compatible with windows, i want to keep original uploaded format?",other,,,,False
+train,1407886,1407886,DropboxSupport,2017-10-31 20:49:27+00:00,Dear @DropboxSupport : Where the hell is the captcha? Thank you https://t.co/G3TYqDSlEP,other,,,,False
+train,1070786,1070786,DropboxSupport,2017-10-20 14:04:11+00:00,"@DropboxSupport Hey! I’m a student &amp; I’m currently using ~0.9TB of my Plus plan, I was super excited to hear about smart sync becoming...",other,,,,False
+train,1166320,1166320,DropboxSupport,2017-10-24 16:26:18+00:00,@DropboxSupport Hello ! Do you have a pricing for NGO in France ? Thanks,other,,,,False
+train,1019918,1019918,DropboxSupport,2017-10-11 08:02:18+00:00,"@DropboxSupport 
+
+We would like to cancel the automatically renewed subscription. Would you please cancel the payment, or give a refund?",refund_cancellation,,,,False
+train,2766871,2766871,DropboxSupport,2017-11-21 08:00:55+00:00,Are you having tech issues today? @DropboxSupport My team is having trouble to access some folders and files. Thank you.,technical_issue,,,,False
+train,2172993,2172993,DropboxSupport,2017-11-07 18:17:06+00:00,@118189 Please don't delete me,other,,,,False
+train,2933930,2933930,DropboxSupport,2017-11-28 22:25:25+00:00,"@DropboxSupport I have tried to ask this via email, but it's never answered quite right. I use DropBox on my desktop as a back up for client files. How do I automatically update the backup daily with just the new files I've created that day? Without manually dragging them? Thx",product_info,,,,False
+train,1062908,1062908,DropboxSupport,2017-10-05 15:23:40+00:00,Whatever #CreativeEnergy you bring—Dropbox is here to keep it flowing.,other,,,,False
+train,1977619,1977619,DropboxSupport,2017-11-01 13:23:32+00:00,@DropboxSupport I haven't been able to find anyone who has the tools to help with the question about our billing cycle...,billing_payment,,,,False
+train,376802,376802,DropboxSupport,2017-10-05 22:29:41+00:00,When dropbox won't let you upload files or make new folders... @dropboxsupport https://t.co/Esr0TgzaY2,other,,,,False
+train,923467,923467,DropboxSupport,2017-10-03 15:14:25+00:00,@DropboxSupport I seem to have two accounts with you. I don't want to review one that's linked to my old email. How do I stop auto renewal?,account_access,,,,False
+train,1895744,1895744,DropboxSupport,2017-10-23 02:54:35+00:00,@118189 @116029 I like how you guys charged me $750 for a trial and refuse to refund me. /sarcasm time to build my own File Sync.,billing_payment,,,,False
+train,2858809,2858809,DropboxSupport,2017-11-27 15:23:24+00:00,@DropboxSupport are symlinked directories on macosx supported? i.e. i symlink /foo into my DB folder (~/DropBox/foo). No changes are being uploaded but remote changes are being applied right away,other,,,,False
+train,1459599,1459599,DropboxSupport,2017-10-22 18:49:54+00:00,@118189 should come up with an external HDD that automatically syncs all your HDD when plugged in.,other,,,,False
+train,2222806,2222806,DropboxSupport,2017-11-09 12:29:29+00:00,"@DropboxSupport My iPhone video files are uploading to Dropbox but only sync to my Windows 7 desktop as audio files. This just started yesterday, though I do it successfully every week. I rely on this for my daily business. Please help!",escalation_human,,,,False
+train,2357786,2357786,DropboxSupport,2017-11-10 19:41:56+00:00,@DropboxSupport  I am still waiting support since over a month,other,,,,False
+train,631271,631271,DropboxSupport,2017-11-21 16:22:48+00:00,"iOS @269607 for iPad is crashing on sync with the new update. On the iPhone, it’s fine.",technical_issue,,,,False
+train,1779261,1779261,DropboxSupport,2017-10-04 17:17:34+00:00,"If @132673 makes it into the @118189 app, I'm in for a fun weekend of moving 400GB to another cloud storage...",other,,,,False
+train,2168056,2168056,DropboxSupport,2017-11-08 08:06:25+00:00,@DropboxSupport Hi. When trying to register continually get this message. Any ideas? Thx. N https://t.co/6xyXXKIAe7,other,,,,False
+train,2118993,2118993,DropboxSupport,2017-11-07 14:56:38+00:00,@DropboxSupport Sent a DM - what is the average response time to expect?,other,,,,False
+train,214858,214858,DropboxSupport,2017-10-01 19:19:49+00:00,@118189 mi pc me borra archivos de la carpeta de Dropbox sin yo hacer nada... Que puedo hacer? https://t.co/2sHTnPQmjG,other,,,,False
+train,1857464,1857464,DropboxSupport,2017-10-15 07:20:34+00:00,"@118189, I need some support service. App and website don’t acknowledge that I have an account.",account_access,,,,False
+train,2124222,2124222,DropboxSupport,2017-11-06 19:17:54+00:00,@118189 web interface down! https://t.co/bGCmKMITNc is dropping packets files page wont load,technical_issue,,,,False
+train,2573138,2573138,DropboxSupport,2017-11-16 11:50:05+00:00,"@118189 Thanks
+Dropbox is useful and simple to use",other,,,,False
+train,2136818,2136818,DropboxSupport,2017-11-07 20:08:45+00:00,@DropboxSupport I entered a pro key purchased from Dell. My Dropbox account accepted it but accts's expiration date did not change.,account_access,,,,False
+train,2331183,2331183,DropboxSupport,2017-11-11 21:29:40+00:00,Would be cool if file-sharing services like @118189 / iCloud incorporated touchID or face-capture as optional requirement for receiver to view confidential files. Won't protect against secondary photos but would protect against link/doc password sharing,account_access,,,,False
+train,2179693,2179693,DropboxSupport,2017-11-09 05:32:13+00:00,@118189 @324875 Would love to see this limitation fixed in your iOS 11 Files integration. https://t.co/R6ML5whBQL,other,,,,False
+train,1829216,1829216,DropboxSupport,2017-10-16 16:29:30+00:00,@dropboxsupport I updated MacBookAir to El Capitan over w/e. Unsynced some folders to make space. Now finding files missing from db on iMac,other,,,,False
+train,2124257,2124257,DropboxSupport,2017-11-06 00:08:17+00:00,when you don't update @118189 with your new card information and yet they somehow still charge you then put it in their system. 🙃😒,billing_payment,,,,False
+train,2725427,2725427,DropboxSupport,2017-11-17 05:29:22+00:00,Fucked that major labels are now trying to pull bootlegs of official tracks from twitter claiming that it's pirated content. Smh. How are upcomers supposed to grow &amp; learn if they can't attempt to remix a song &amp; let people hear it.,other,,,,False
+train,921871,921871,DropboxSupport,2017-10-09 14:16:24+00:00,@DropboxSupport Missing folder and files. Not deleted. Not in event log! Help!,other,,,,False
+train,2477116,2477116,DropboxSupport,2017-11-14 03:46:58+00:00,Hello @DropboxSupport I can't see all the folders in our shared team folder and the admin has already granted me full access. Can you share the steps to do that? Thanks!,other,,,,False
+train,869903,869903,DropboxSupport,2017-10-06 20:15:45+00:00,"@DropboxSupport If all the files I need are on Dropbox, I can delete them from my computer's harddrive, right?",other,,,,False
+train,2421518,2421518,DropboxSupport,2017-11-11 17:37:25+00:00,"In case you’re trying to find the @118189 download link on their website, it’s there: https://t.co/DhjrJoTq63",technical_issue,,,,False
+val,1843233,1843233,DropboxSupport,2017-10-17 12:37:12+00:00,"@DropboxSupport Trying to update my billing location from UK to Netherlands but getting this: ""This billing country change isn't supported""",billing_payment,,,,False
+val,2477106,2477106,DropboxSupport,2017-11-14 08:26:05+00:00,This is driving me insane!!!! @DropboxSupport on Windows 10 WILL NOT uninstall despite following every suggestion on your website to do it. Fails every time. Please help!!!,other,,,,False
+val,2124260,2124260,DropboxSupport,2017-11-08 15:37:05+00:00,What wrong with @118189? No access?,other,,,,False
+val,615215,615215,DropboxSupport,2017-10-04 07:25:10+00:00,@118189 why did you remove the green check that signs everything is alright and I'm connected to the dropbox cloud?,other,,,,False
+val,2554661,2554661,DropboxSupport,2017-11-14 06:51:34+00:00,@141282 I'm locked out of my @118189 account because you're blocking A2P SMS messages according to this story https://t.co/vbizLDgUAH - if you don't immediately unblock on my account I'm cancelling and switching to @10693,account_access,,,,False
+val,1523889,1523889,DropboxSupport,2017-11-14 13:55:34+00:00,"@DropboxSupport Getting this error daily while trying to upgrade plans. Need to upgrade immediately, Kindly help ASAP.",technical_issue,,,,False
+val,1862733,1862733,DropboxSupport,2017-10-20 10:36:33+00:00,"Super excited for the @118189 Smart Sync feature, but £19.99 a month seems a little steep to me 🙃",product_info,,,,False
+val,230715,230715,DropboxSupport,2017-10-03 19:59:00+00:00,@DropboxSupport iOS 11 to sync w/MacBook Pro using app but can't view .mov files on Mac/@118189 web or app. Shot mov vids using iOS cam.,other,,,,False
+val,631262,631262,DropboxSupport,2017-11-21 07:14:21+00:00,@DropboxSupport galaxys7 user.  Trying to look at video and asks which of 2 apps that have no video view function. Went to manage applications in settings and there are no apps.  How to designate app? Never happened before.  Thx.,other,,,,False
+val,304657,304657,DropboxSupport,2017-11-03 23:05:13+00:00,@DropboxSupport love Dropbox. now it installed on two mobiles and new installation uploading 20000 photos. How do I set to only do new one?,product_info,,,,False
+val,2179702,2179702,DropboxSupport,2017-11-08 14:10:34+00:00,"@118189 - When I try to login with my @122986 account on @122609, Dropbox asks for permission to manage my contacts. Why does it need that?",account_access,,,,False
+val,2612078,2612078,DropboxSupport,2017-11-16 06:52:00+00:00,@118189 I've forgotten how to use Dropbox but I can only find advanced queries on the website. Where's the basic stuff please?,other,,,,False
+val,197022,197022,DropboxSupport,2017-10-03 19:31:21+00:00,"Seriously? First @115888, later @115937 and now @118189 ? Vibrant colours is the new flat design 😔 https://t.co/rwutenOFxA",order_shipping,,,,False
+val,2848793,2848793,DropboxSupport,2017-11-27 12:40:09+00:00,"@DropboxSupport Good morning, I've had MAJOR issues the last FIVE days with DropBox and have received an EXCEPTIONALLY POOR support.... I've also upgraded to Plus Professional and it won't grant me IM support? Not a great service to be honest..",technical_issue,,,,False
+val,2659655,2659655,DropboxSupport,2017-11-17 07:59:10+00:00,@DropboxSupport Ho can I set up proper information for my Invoice?,billing_payment,,,,False
+val,615201,615201,DropboxSupport,2017-10-03 16:24:50+00:00,"Thank you #Dropbox for the incredibly work-saving restore- previous-versions feature. So easy to use, saved my day. @118189 #greatapp",product_info,,,,False
+val,402103,402103,DropboxSupport,2017-10-06 20:35:27+00:00,"@DropboxSupport Hi Dropbox,I've lost access to my .ac.uk email after graduating, and locked my account after a few bad pass. attempts. Help!",account_access,,,,False
+val,785425,785425,DropboxSupport,2017-10-07 07:42:13+00:00,CPU 100% 😬 Thanks @DropboxSupport https://t.co/gAyf9zNDSn,other,,,,False
+val,1088575,1088575,DropboxSupport,2017-10-20 19:59:21+00:00,"@DropboxSupport
+If I upgrade my Plus acct to a Professional acct, will I be able to password-protect files &amp; folders I share with #Dropbox?",account_access,,,,False
+val,1433436,1433436,DropboxSupport,2017-10-16 16:02:10+00:00,@DropboxSupport quel est votre numéro pour vous contacter depuis le Canada par téléphone svp?,escalation_human,,,,False
+val,2222818,2222818,DropboxSupport,2017-11-09 08:49:19+00:00,"@DropboxSupport Hey Guys, Camera Upload Stopped working. Reinstalled the app now it wants to upload 2000 photos that are already in the cloud. Can I do something. BTW: Is there a find duplicates feater for DB",other,,,,False
+val,2000454,2000454,DropboxSupport,2017-10-24 20:46:32+00:00,@118189 not cool that I can’t export my keynote files from your iPad app to use them in keynote w/latest update.,order_shipping,,,,False
+val,303054,303054,DropboxSupport,2017-10-05 21:54:12+00:00,@DropboxSupport competitors offer more free space. What other ways to add space than paying or referrals?,other,,,,False
+val,2231669,2231669,DropboxSupport,2017-11-09 13:09:20+00:00,"@DropboxSupport https://t.co/WStAc2HZlS has an error switching to monthly 
+
+Dropbox Plus
+Billed Now: €99
+You’ll be charged €99.00 monthly         until you cancel your subscription.",billing_payment,,,,False
+val,1814485,1814485,DropboxSupport,2017-10-14 11:51:59+00:00,.@118189 being offline is the reason why I have a home NAS and an offline copy,other,,,,False
+val,867202,867202,DropboxSupport,2017-10-17 20:18:06+00:00,"Bad, bad day when @118189 app keeps freezing",other,,,,False
+val,2218354,2218354,DropboxSupport,2017-11-09 21:42:43+00:00,@DropboxSupport Why is getting a refund so difficult?? Why is support so difficult??,refund_cancellation,,,,False
+val,843989,843989,DropboxSupport,2017-10-18 20:12:33+00:00,@DropboxSupport I accidentally unlinked my accounts and now I can't get into that account again. Help please :),account_access,,,,False
+val,933429,933429,DropboxSupport,2017-10-21 00:32:43+00:00,Really wish I could tell @118189 to upload small files first even if they are added later.,order_shipping,,,,False
+val,1065465,1065465,DropboxSupport,2017-10-23 09:06:16+00:00,"Dear Santa, please bring us @6414 support for @118189 Paper &lt;3",other,,,,False
+val,2195915,2195915,DropboxSupport,2017-11-08 20:55:51+00:00,@DropboxSupport I am very new to Dropbox &amp; I am just not getting it please help,other,,,,False
+val,2773995,2773995,DropboxSupport,2017-11-20 19:57:40+00:00,@DropboxSupport My account needs to be rolled back to be able to access important files. Im on NY time.....anybody there??,account_access,,,,False
+val,1955253,1955253,DropboxSupport,2017-10-29 13:20:22+00:00,How can I make my iOS app to notify me when a new file is uploaded on a shared folder?I enabled notifications &amp; app refresh @DropboxSupport,other,,,,False
+val,2564753,2564753,DropboxSupport,2017-11-15 19:44:00+00:00,@DropboxSupport I recently updated my mac os to high sierra and now dropbox is asking me where to sync. I'd like to choose the same folder I used previously but it keeps saying it will create a new dropbox folder inside the old one. is there a workaround?,other,,,,False
+val,1856445,1856445,DropboxSupport,2017-10-14 10:04:41+00:00,If you ever consider adding your personal @118189 login to a business account - don't. It's a nightmare to untangle &amp; support pretty poor.,account_access,,,,False
+val,1097379,1097379,DropboxSupport,2017-10-21 14:20:52+00:00,@DropboxSupport is there any way to test showcase without upgrading first?,other,,,,False
+val,2564757,2564757,DropboxSupport,2017-11-15 18:27:34+00:00,Dropboxって有料にしても2TBしか保存できないんだね【∣3) もっと欲しいが他のアカウントありきの無制限とか要らないんだが @118189 @DropboxSupport,other,,,,False
+val,1419380,1419380,DropboxSupport,2017-10-14 12:23:46+00:00,@118189 is down. Error 500. Due to renew my yearly plan in a few days. Should I migrate to Drive? Hmmm. @DropboxSupport,technical_issue,,,,False
+val,2723641,2723641,DropboxSupport,2017-11-17 16:18:27+00:00,"If you’re thinking of using @118189 for business, don’t. Their “support” team is an utter nightmare to interact with.",other,,,,False
+val,1219561,1219561,DropboxSupport,2017-10-25 13:59:53+00:00,So @118189 PROFESSIONAL gives the cool and needed “Smart Sync” to individuals. But it costs twice as much.,other,,,,False
+val,193032,193032,DropboxSupport,2017-10-03 17:46:30+00:00,"From a business point of view, why would @118189 rebrand? Can't understand it.",other,,,,False
+val,2187430,2187430,DropboxSupport,2017-11-09 04:26:29+00:00,"Hello, @118189 @DropboxSupport 
+
+Is it possible to purchase Dropbox Pro from the Play Store?",other,,,,False
+val,2732318,2732318,DropboxSupport,2017-11-17 20:33:10+00:00,"@DropboxSupport Today I got an email from a business partner (same name, diff email address). It took me to DropBox and asked me to download a PDF. I tried to and my computer warned me not to. I asked the person and he said it wasn't him. Was I affected by this virus?",technical_issue,,,,False
+val,950039,950039,DropboxSupport,2017-10-11 14:32:09+00:00,"@DropboxSupport I don't know my pw and when I try to reset it it says ""too many attempts, try again in a few minutes.""",other,,,,False
+val,1672356,1672356,DropboxSupport,2017-10-17 14:29:26+00:00,"@DropboxSupport I deleted all my files roughly 14,000 files from dropbox yesterday.  Is it possible for me to restore all at one time?",other,,,,False
+val,1998447,1998447,DropboxSupport,2017-11-03 18:09:14+00:00,@118189 y’all hiring?,other,,,,False
+val,2778533,2778533,DropboxSupport,2017-11-20 20:22:27+00:00,@DropboxSupport @116029 how do I get my billing handled? (changed account purchase but no refund.),account_access,,,,False
+val,2801355,2801355,DropboxSupport,2017-11-21 16:46:19+00:00,@DropboxSupport A .docx that my supervisor added to a shared folder on November 7th is not showing in at least two accounts. This is true for the Dropbox folder on our PCs and online. There is nothing different about this document than any other .docx in that shared folder.,account_access,,,,False
+val,11423,11423,DropboxSupport,2017-10-31 15:18:02+00:00,.@118189 @dropboxsupport I see u support @118190 but what we really need is a Slack channel that shows new&amp;changed documents in a folder!,other,,,,False
+val,1463706,1463706,DropboxSupport,2017-10-25 17:29:08+00:00,"@118189 I received your survey. I think the wording is ambiguous. I understand what you intended, but FYI your results may not be useful https://t.co/zFA6F6M5ZC",other,,,,False
+test,2119019,2119019,DropboxSupport,2017-11-07 13:34:15+00:00,"@DropboxSupport I've contacted you a few times. No reply. I need to quickly, b4 acc expiry, change my NZ bill location to the UK.",billing_payment,,,,False
+test,153573,153573,DropboxSupport,2017-11-23 15:16:26+00:00,Hey @118189 can you improve your overall platform and intervention with @8893,other,,,,False
+test,1780665,1780665,DropboxSupport,2017-10-07 01:48:40+00:00,"New installation of @118189 decided to delete _all_ of my files. Good job, guys.",other,,,,False
+test,2179683,2179683,DropboxSupport,2017-11-09 05:19:57+00:00,@118189 #LIARS GAVE AWAY MY PERSONAL PAID ACCOUNT WITHOUT PERMISSION #WORSTCLOUDSTORAGECOMPANY,account_access,,,,False
+test,1843954,1843954,DropboxSupport,2017-10-16 20:50:48+00:00,"@DropboxSupport If I accidentally share a Paper document link with the wrong person, how do I make it stop working?",product_info,,,,False
+test,1789147,1789147,DropboxSupport,2017-10-09 17:48:38+00:00,What #CreativeEnergy do you bring? https://t.co/edphiyb0Al,other,,,,False
+test,2345426,2345426,DropboxSupport,2017-11-13 01:21:13+00:00,@638775 I can’t get the new “Locations”-based Dropbox integration to sync-down upstream changes. Is this supposed to work editing a file from multiple devices?,technical_issue,,,,False
+test,2168062,2168062,DropboxSupport,2017-11-09 03:28:59+00:00,Anybody else having trouble with #Dropbox tonight? It won't load. Blank screen. Help me @DropboxSupport. You're my only hope! :),other,,,,False
+test,1396736,1396736,DropboxSupport,2017-10-28 13:48:24+00:00,@AppleSupport @DropboxSupport is it possibile to save a photo from Dropbox to Photo app?(I mean the app preinstalled on iPhone),escalation_human,,,,False
+test,1816889,1816889,DropboxSupport,2017-10-14 12:16:10+00:00,@DropboxSupport URGENT! Can't login with E-mail or reset password! error message 'There was a problem completing this request' HELP.,account_access,,,,False
+test,2619182,2619182,DropboxSupport,2017-11-16 19:02:12+00:00,Nearly 3 weeks and access has not been restored to my account. My trust for @118189 is permanently destroyed. https://t.co/biuTi9Ax0S,account_access,,,,False
+test,1515527,1515527,DropboxSupport,2017-10-15 13:11:47+00:00,"Dropbox has been trying to sync ~285MB of files for the past 3 days, between 1-80kb/s even without upload limit. @DropboxSupport what's up?",other,,,,False
+test,1495045,1495045,DropboxSupport,2017-11-02 07:33:49+00:00,oh yeah. @118189 new design is awesome. right. https://t.co/f2nwEOqWre,other,,,,False
+test,2024347,2024347,DropboxSupport,2017-11-04 16:20:42+00:00,"@DropboxSupport I am trying to download my files from dropbox app and it says an error has occurred, then says still working. then white",technical_issue,,,,False
+test,2897454,2897454,DropboxSupport,2017-11-28 11:26:15+00:00,how do i use dropbox business @DropboxSupport,product_info,,,,False
+test,923460,923460,DropboxSupport,2017-10-09 15:39:03+00:00,@DropboxSupport Hello. I want to cancel my Bussines subscription and change it to Plus subscription. How I can do it?,refund_cancellation,,,,False
+test,197011,197011,DropboxSupport,2017-10-03 22:34:47+00:00,New @118189 has convinced me it’s april. Surely they have eyes over there!,other,,,,False
+test,515823,515823,DropboxSupport,2017-12-01 20:35:07+00:00,@DropboxSupport need help switching billing information. Can someone help?,billing_payment,,,,False
+test,1211990,1211990,DropboxSupport,2017-10-24 11:46:41+00:00,@DropboxSupport downloaded latest version of IOS and now I cannot upload Dropbox files like my resume in the indeed app for example https://t.co/rHlWjOAlCw,order_shipping,,,,False
+test,2854127,2854127,DropboxSupport,2017-11-27 13:42:02+00:00,"@DropboxSupport Привет! Сделал папку, но на одном из пользователей система пишет ""Слишком много попыток - попробуйте позже"". Хотя, попытка была одна... Пару других пользователей добавил. Проблема именно на 2 других. Что делать-то? Спасибо.",other,,,,False
+test,1221443,1221443,DropboxSupport,2017-10-24 20:24:11+00:00,@DropboxSupport I'm uploading HEIC photos as JPEG from an iPhone 8 Plus and some aren't being converted to JPG. This is problematic.,escalation_human,,,,False
+test,2860173,2860173,DropboxSupport,2017-11-09 19:26:02+00:00,@DropboxSupport Not receiving verification emails.  Not in SPAM folder or any other folder.  Added __email__ to safe sender list.,other,,,,False
+test,1495907,1495907,DropboxSupport,2017-11-02 11:47:27+00:00,@118189 I'm writing a review of paper for a british mag and am saying how awesome it is. I need some tech details - anyone I can speak to?,escalation_human,,,,False
+test,2218352,2218352,DropboxSupport,2017-11-09 19:25:11+00:00,"Hi, we are having technical issues with Dropbox Business. My admin console is completely gone along with all of our folders and documents.I have sent several emails and tried the chat but no response! @DropboxSupport",technical_issue,,,,False
+test,2484904,2484904,DropboxSupport,2017-11-14 13:37:40+00:00,"@DropboxSupport Good morning, I'm having trouble with my Dropbox Plus Desktop client on Windows 10.
+
+It frequently crashes without warning, disappearing from the system tray. 
+
+I don't know the last time it successfully completed a backup.
+
+Can you please help?",technical_issue,,,,False
+test,2124273,2124273,DropboxSupport,2017-11-05 19:11:19+00:00,Using @118189 is becoming so inconvenient. 🙄,other,,,,False
+test,2172965,2172965,DropboxSupport,2017-11-08 15:10:25+00:00,"#phishing campaign going around using ‘__email__’
+
+cc: @118189 @DropboxSupport",other,,,,False
+test,1516799,1516799,DropboxSupport,2017-11-02 22:00:19+00:00,"@DropboxSupport I tried to find it. But in the web app of my dropbox, I found a file titled just like mine and I clic to restore it,",other,,,,False
+test,1957149,1957147,DropboxSupport,2017-10-29 09:24:51+00:00,@118189 I already tried the troubleshooting methods suggested but still didn't work.,other,,,,False
+test,2976788,2976788,DropboxSupport,2017-11-15 18:29:35+00:00,"@118189 ive been having a lot of trouble uploading “large” files to your system (1 gb takes 45 mins?) and, yes, im using a strong internet connection. maybe you should’ve stuck with AWS after all....",other,,,,False
+test,1419371,1419371,DropboxSupport,2017-10-14 12:25:40+00:00,"¿Qué pasa, socios de @DropboxSupport?",other,,,,False
+test,2546583,2546583,DropboxSupport,2017-11-15 15:42:36+00:00,"@DropboxSupport Q re: folder permissions + shortcuts. Adam has access to folder ""Birds"" but not folder ""Lizards"". In ""Lizards"" is ""dinosaurs.txt"". In ""Birds"" is shortcut to ""Lizards/dinosaurs.txt"". Will Adam be able to access ""Lizards/dinosaurs.txt"" without changing permissions?",other,,,,False
+test,1879949,1879949,DropboxSupport,2017-10-20 17:53:15+00:00,@118189 @DropboxSupport How i can organize my photos with albums on #dropbox ??,other,,,,False
+test,1832570,1832570,DropboxSupport,2017-10-14 12:06:44+00:00,Ah ba okay @118189 https://t.co/77GLVu3Qx6,other,,,,False
+test,2430098,2430098,DropboxSupport,2017-11-13 21:19:35+00:00,"@DropboxSupport Howdy! Someone signed up for a Dropbox account with a variant of my email address (@ googlemail•com instead of gmail•com), but I can’t find a way to opt out of the notices I’m now getting. Help!",account_access,,,,False
+test,1433305,1433305,DropboxSupport,2017-10-14 14:23:16+00:00,@DropboxSupport I sent u a msg re 36.4.22 version. It has stalled at syncing forever and nothing happens. Pls advise.,other,,,,False
+test,2967050,2967050,DropboxSupport,2017-11-14 17:37:45+00:00,"#Dropbox #phishing 
+hxxp://doverylittle.com/pdf/Dropbox/
+
+@DropboxSupport https://t.co/mG4s1z0xpg",other,,,,False
+test,1824140,1824140,DropboxSupport,2017-10-14 12:34:09+00:00,Mmmm maybe time to switch to iCloud from @118189 having lost so much time today due to outage,other,,,,False
+test,2236056,2236056,DropboxSupport,2017-10-18 15:40:04+00:00,@118189 Please forward preview feedback 😀 https://t.co/LMMS16VGeD,other,,,,False
+test,2569144,2569144,DropboxSupport,2017-10-29 13:55:35+00:00,"@DropboxSupport Hi, I'm finding it impossible to use selective sync. Help points to a settings icon I do not have... Help please!",other,,,,False
+test,2179667,2179667,DropboxSupport,2017-11-08 18:44:06+00:00,@118189 two-factor codes via text message are not sending and haven't for a long time. I can't sign into my iPhone Dropbox as a result.,account_access,,,,False
+test,1478170,1478170,DropboxSupport,2017-11-02 16:52:07+00:00,"@DropboxSupport hello, need to delete all my deleted files in one batch and now, I must delete them one by one :( thx for help",other,,,,False
+test,2732323,2732323,DropboxSupport,2017-11-17 18:57:46+00:00,"@DropboxSupport re: Paper - The workflow of justifying an image in order to make it *not* full-width, vs. clicking fill-width again to toggle display style, is janky and weird.",order_shipping,,,,False
+test,1600528,1600528,DropboxSupport,2017-10-15 22:08:41+00:00,@DropboxSupport why am i not able to edit my word document saved in dropbox from my ipad pro,other,,,,False
+test,2858811,2858811,DropboxSupport,2017-11-27 15:12:41+00:00,"@DropboxSupport I won't pay the business fee, because i'm not going to use it anymore. I would like to know if I'll still be able access to my files inside the ""business"" folder or it's better to move them to a ""not business"" folder?",other,,,,False
+test,406587,406587,DropboxSupport,2017-10-07 12:00:01+00:00,"@DropboxSupport I need assistance with my Dropbox.  It’s not allowing me to upload files, error keeps popping up",technical_issue,,,,False
+test,1858136,1858136,DropboxSupport,2017-10-15 01:45:23+00:00,"@118189 @116029 #Dropbox - Yea, ""improvements"", Mhmm. I've been loving this feature I used to use daily being deleted. &lt;/sarcasm&gt; https://t.co/3PsJzScKK6",product_info,,,,False
+test,2187483,2187483,DropboxSupport,2017-11-08 09:15:46+00:00,@118189 subo archivos mp4 en FHD grabados desde un movil y al entrar en la carpeta desde cualquier movil salen como archivos de imagen.como puedo solucionarlo?,other,,,,False
+test,1754989,1754989,DropboxSupport,2017-10-17 19:59:25+00:00,"@DropboxSupport Hello
+please I lost all my folders from my dropbox account without any action. help please",account_access,,,,False
+test,1946037,1946037,DropboxSupport,2017-10-27 17:00:53+00:00,@DropboxSupport Is it possible to update a shared file without creating a new shared url? The URL should always be the same.,other,,,,False

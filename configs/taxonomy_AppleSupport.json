@@ -1,0 +1,84 @@
+{
+  "brand": "AppleSupport",
+  "notes": "Custom taxonomy for AppleSupport focused on their specific support domain.",
+  "intents": [
+    {
+      "intent": "software_issue",
+      "description": "Software bugs, iOS/macOS update issues, freezing, app crashes, abnormal battery drain.",
+      "keyword_hints": [
+        "update",
+        "glitch",
+        "crash",
+        "freeze",
+        "bug",
+        "ios",
+        "high sierra",
+        "battery",
+        "type",
+        "slow"
+      ]
+    },
+    {
+      "intent": "hardware_issue",
+      "description": "Physical device damage, broken buttons, accessory hardware failure, hardware repair requests.",
+      "keyword_hints": [
+        "button",
+        "screen",
+        "broken",
+        "repair",
+        "earphones",
+        "hardware",
+        "turn on"
+      ]
+    },
+    {
+      "intent": "account_and_billing",
+      "description": "Intentionally broad category for sensitive/account-specific issues sharing handling characteristics: Apple ID, iCloud login, Activation Lock, forgotten passwords, App Store billing, and Apple Pay.",
+      "keyword_hints": [
+        "password",
+        "apple id",
+        "icloud",
+        "activation lock",
+        "charge",
+        "billing",
+        "apple pay",
+        "login"
+      ]
+    },
+    {
+      "intent": "how_to_and_inquiry",
+      "description": "Asking how to use a feature, queries about warranty, storage space management, or general product inquiries.",
+      "keyword_hints": [
+        "how to",
+        "how do i",
+        "storage",
+        "warranty",
+        "downgrade",
+        "delete"
+      ]
+    },
+    {
+      "intent": "complaint_feedback",
+      "description": "Explicit complaints, rants, or negative feedback where no clear troubleshooting request is made.",
+      "keyword_hints": [
+        "fix it",
+        "terrible",
+        "worst",
+        "annoying",
+        "sucks",
+        "wtf"
+      ]
+    },
+    {
+      "intent": "other",
+      "description": "Fallback category for messages that cannot be confidently assigned to the defined support intents, including vague/insufficient-context messages, gratitude, and unsupported/non-target-language messages.",
+      "keyword_hints": [
+        "thanks",
+        "thank you",
+        "dm",
+        "ok"
+      ]
+    }
+  ],
+  "labeling_rule": "Read the customer tweet (and prior tweets in the thread if needed). Pick exactly one intent. If two apply, pick the customer's main request. Use other when unsure. Do not guess from the brand reply alone."
+}

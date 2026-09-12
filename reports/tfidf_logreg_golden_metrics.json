@@ -1,0 +1,51 @@
+{
+  "accuracy": 0.568,
+  "macro_f1": 0.472066380920852,
+  "weighted_f1": 0.6008340673937401,
+  "n_examples": 250,
+  "per_class": [
+    {
+      "intent": "account_and_billing",
+      "precision": 0.38461538461538464,
+      "recall": 0.4166666666666667,
+      "f1": 0.4,
+      "support": 12
+    },
+    {
+      "intent": "complaint_feedback",
+      "precision": 0.6,
+      "recall": 0.24,
+      "f1": 0.34285714285714286,
+      "support": 25
+    },
+    {
+      "intent": "hardware_issue",
+      "precision": 0.3333333333333333,
+      "recall": 0.4,
+      "f1": 0.36363636363636365,
+      "support": 15
+    },
+    {
+      "intent": "how_to_and_inquiry",
+      "precision": 0.9,
+      "recall": 0.47368421052631576,
+      "f1": 0.6206896551724138,
+      "support": 19
+    },
+    {
+      "intent": "other",
+      "precision": 0.25,
+      "recall": 0.8846153846153846,
+      "f1": 0.3898305084745763,
+      "support": 26
+    },
+    {
+      "intent": "software_issue",
+      "precision": 0.8691588785046729,
+      "recall": 0.6078431372549019,
+      "f1": 0.7153846153846154,
+      "support": 153
+    }
+  ],
+  "classification_report": "                     precision    recall  f1-score   support\n\naccount_and_billing       0.38      0.42      0.40        12\n complaint_feedback       0.60      0.24      0.34        25\n     hardware_issue       0.33      0.40      0.36        15\n how_to_and_inquiry       0.90      0.47      0.62        19\n              other       0.25      0.88      0.39        26\n     software_issue       0.87      0.61      0.72       153\n\n           accuracy                           0.57       250\n          macro avg       0.56      0.50      0.47       250\n       weighted avg       0.72      0.57      0.60       250\n"
+}

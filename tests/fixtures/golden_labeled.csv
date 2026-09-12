@@ -1,0 +1,19 @@
+tweet_id,intent,notes
+1000,account_access,SYNTHETIC FIXTURE LABEL — not assignment gold
+1010,account_access,SYNTHETIC FIXTURE LABEL — not assignment gold
+1020,account_access,SYNTHETIC FIXTURE LABEL — not assignment gold
+1030,billing_payment,SYNTHETIC FIXTURE LABEL — not assignment gold
+1040,billing_payment,SYNTHETIC FIXTURE LABEL — not assignment gold
+1050,billing_payment,SYNTHETIC FIXTURE LABEL — not assignment gold
+1060,technical_issue,SYNTHETIC FIXTURE LABEL — not assignment gold
+1070,technical_issue,SYNTHETIC FIXTURE LABEL — not assignment gold
+1080,technical_issue,SYNTHETIC FIXTURE LABEL — not assignment gold
+1090,refund_cancellation,SYNTHETIC FIXTURE LABEL — not assignment gold
+1100,refund_cancellation,SYNTHETIC FIXTURE LABEL — not assignment gold
+1110,refund_cancellation,SYNTHETIC FIXTURE LABEL — not assignment gold
+1120,order_shipping,SYNTHETIC FIXTURE LABEL — not assignment gold
+1130,order_shipping,SYNTHETIC FIXTURE LABEL — not assignment gold
+1140,order_shipping,SYNTHETIC FIXTURE LABEL — not assignment gold
+1150,complaint_feedback,SYNTHETIC FIXTURE LABEL — not assignment gold
+1160,complaint_feedback,SYNTHETIC FIXTURE LABEL — not assignment gold
+1170,escalation_human,SYNTHETIC FIXTURE LABEL — not assignment gold

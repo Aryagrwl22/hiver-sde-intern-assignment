@@ -1,0 +1,19 @@
+split,conversation_id,tweet_id,brand,created_at,customer_text,keyword_hint,intent,labeler,notes,is_gold
+train,1000,1000,AcmeSupport,2017-10-01 10:00:00,I cannot login to my account password reset failed,account_access,,,,False
+train,1110,1110,AcmeSupport,2017-10-02 12:00:00,can I return this and get my money back,refund_cancellation,,,,False
+train,1100,1100,AcmeSupport,2017-10-02 11:00:00,please cancel my subscription today,refund_cancellation,,,,False
+train,1140,1140,AcmeSupport,2017-10-02 15:00:00,how do I change the delivery address for my order,order_shipping,,,,False
+train,1170,1170,AcmeSupport,2017-10-02 18:00:00,I want to speak to a manager not a bot,escalation_human,,,,False
+train,1060,1060,AcmeSupport,2017-10-01 16:00:00,the app is not working it crashes on open,technical_issue,,,,False
+train,1090,1090,AcmeSupport,2017-10-02 10:00:00,I need a refund for last week's charge,refund_cancellation,,,,False
+train,1050,1050,AcmeSupport,2017-10-01 15:00:00,the payment keeps failing on my card,billing_payment,,,,False
+train,1070,1070,AcmeSupport,2017-10-01 17:00:00,website error 500 every time I click checkout,technical_issue,,,,False
+train,1160,1160,AcmeSupport,2017-10-02 17:00:00,your agent was rude and I am disappointed,complaint_feedback,,,,False
+train,1030,1030,AcmeSupport,2017-10-01 13:00:00,why was I charged twice on my card this month,billing_payment,,,,False
+train,1120,1120,AcmeSupport,2017-10-02 13:00:00,where is my order tracking number does nothing,order_shipping,,,,False
+val,1040,1040,AcmeSupport,2017-10-01 14:00:00,my bill looks wrong and the invoice is too high,billing_payment,,,,False
+val,1020,1020,AcmeSupport,2017-10-01 12:00:00,please help I forgot my username for sign in,account_access,,,,False
+test,1080,1080,AcmeSupport,2017-10-01 18:00:00,service is down for me all morning broken page,technical_issue,,,,False
+test,1010,1010,AcmeSupport,2017-10-01 11:00:00,my account is locked after too many tries,account_access,,,,False
+test,1130,1130,AcmeSupport,2017-10-02 14:00:00,shipping is late and the package is missing,order_shipping,,,,False
+test,1150,1150,AcmeSupport,2017-10-02 16:00:00,this is the worst support I have ever had,complaint_feedback,,,,False

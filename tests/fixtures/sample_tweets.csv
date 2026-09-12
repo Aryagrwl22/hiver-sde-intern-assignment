@@ -1,0 +1,39 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1000,c01,True,2017-10-01 10:00:00,I cannot login to my account password reset failed,1001,
+1001,AcmeSupport,False,2017-10-01 10:05:00,@c01 we can help reset your password,,1000
+1010,c02,True,2017-10-01 11:00:00,my account is locked after too many tries,1011,
+1011,AcmeSupport,False,2017-10-01 11:04:00,@c02 unlocking now,,1010
+1020,c03,True,2017-10-01 12:00:00,please help I forgot my username for sign in,1021,
+1021,AcmeSupport,False,2017-10-01 12:03:00,@c03 check the email we sent,,1020
+1030,c04,True,2017-10-01 13:00:00,why was I charged twice on my card this month,1031,
+1031,AcmeSupport,False,2017-10-01 13:06:00,@c04 looking at the payment now,,1030
+1040,c05,True,2017-10-01 14:00:00,my bill looks wrong and the invoice is too high,1041,
+1041,AcmeSupport,False,2017-10-01 14:05:00,@c05 we will review the invoice,,1040
+1050,c06,True,2017-10-01 15:00:00,the payment keeps failing on my card,1051,
+1051,AcmeSupport,False,2017-10-01 15:02:00,@c06 try another payment method,,1050
+1060,c07,True,2017-10-01 16:00:00,the app is not working it crashes on open,1061,
+1061,AcmeSupport,False,2017-10-01 16:07:00,@c07 try reinstalling the app,,1060
+1070,c08,True,2017-10-01 17:00:00,website error 500 every time I click checkout,1071,
+1071,AcmeSupport,False,2017-10-01 17:04:00,@c08 we are fixing the error,,1070
+1080,c09,True,2017-10-01 18:00:00,service is down for me all morning broken page,1081,
+1081,AcmeSupport,False,2017-10-01 18:01:00,@c09 incident is in progress,,1080
+1090,c10,True,2017-10-02 10:00:00,I need a refund for last week's charge,1091,
+1091,AcmeSupport,False,2017-10-02 10:08:00,@c10 refund request started,,1090
+1100,c11,True,2017-10-02 11:00:00,please cancel my subscription today,1101,
+1101,AcmeSupport,False,2017-10-02 11:03:00,@c11 cancellation is done,,1100
+1110,c12,True,2017-10-02 12:00:00,can I return this and get my money back,1111,
+1111,AcmeSupport,False,2017-10-02 12:06:00,@c12 return label is on the way,,1110
+1120,c13,True,2017-10-02 13:00:00,where is my order tracking number does nothing,1121,
+1121,AcmeSupport,False,2017-10-02 13:04:00,@c13 package is delayed,,1120
+1130,c14,True,2017-10-02 14:00:00,shipping is late and the package is missing,1131,
+1131,AcmeSupport,False,2017-10-02 14:09:00,@c14 we opened a delivery trace,,1130
+1140,c15,True,2017-10-02 15:00:00,how do I change the delivery address for my order,1141,
+1141,AcmeSupport,False,2017-10-02 15:02:00,@c15 address updated,,1140
+1150,c16,True,2017-10-02 16:00:00,this is the worst support I have ever had,1151,
+1151,AcmeSupport,False,2017-10-02 16:05:00,@c16 sorry to hear that,,1150
+1160,c17,True,2017-10-02 17:00:00,your agent was rude and I am disappointed,1161,
+1161,AcmeSupport,False,2017-10-02 17:01:00,@c17 we will coach the agent,,1160
+1170,c18,True,2017-10-02 18:00:00,I want to speak to a manager not a bot,1171,
+1171,AcmeSupport,False,2017-10-02 18:03:00,@c18 a supervisor will DM you,,1170
+2000,c99,True,2017-10-03 09:00:00,other brand hello,2001,
+2001,TinyBrand,False,2017-10-03 09:01:00,@c99 hi,,2000

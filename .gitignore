@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large raw dataset files — do not commit
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+reports/*.png
+reports/*.json
+reports/*.csv
+
+# Keep folder placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/golden/.gitkeep
+!reports/.gitkeep
+
+.DS_Store
+Thumbs.db
+.env
+
+!reports/agent_evaluation_official.csv
+!reports/agent_metrics_official.json
+!reports/majority_golden_metrics.json
+!reports/tfidf_logreg_golden_metrics.json
+!reports/judge_results.csv
+!reports/judge_agreement.json

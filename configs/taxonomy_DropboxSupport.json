@@ -1,0 +1,104 @@
+{
+  "brand": "DropboxSupport",
+  "notes": "Review a sample of this brand's customer tweets and drop/rename intents that never appear.",
+  "intents": [
+    {
+      "intent": "account_access",
+      "description": "Login, password, locked account, two-factor, profile.",
+      "keyword_hints": [
+        "login",
+        "password",
+        "account",
+        "locked",
+        "sign in",
+        "username"
+      ]
+    },
+    {
+      "intent": "billing_payment",
+      "description": "Charges, invoices, payment method, failed payment.",
+      "keyword_hints": [
+        "bill",
+        "charged",
+        "payment",
+        "card",
+        "invoice",
+        "refund fee"
+      ]
+    },
+    {
+      "intent": "refund_cancellation",
+      "description": "Refunds, returns, cancelling a service or order.",
+      "keyword_hints": [
+        "refund",
+        "cancel",
+        "return",
+        "money back"
+      ]
+    },
+    {
+      "intent": "order_shipping",
+      "description": "Where is my order, delayed delivery, tracking, missing package.",
+      "keyword_hints": [
+        "order",
+        "shipping",
+        "delivery",
+        "tracking",
+        "package",
+        "late"
+      ]
+    },
+    {
+      "intent": "technical_issue",
+      "description": "App/site/product not working, bugs, outages, errors.",
+      "keyword_hints": [
+        "not working",
+        "error",
+        "bug",
+        "crash",
+        "down",
+        "issue",
+        "broken"
+      ]
+    },
+    {
+      "intent": "product_info",
+      "description": "How-to questions, features, coverage, policy questions.",
+      "keyword_hints": [
+        "how do i",
+        "does it",
+        "policy",
+        "feature",
+        "hours"
+      ]
+    },
+    {
+      "intent": "complaint_feedback",
+      "description": "Complaints, poor service, compliments that are not a request.",
+      "keyword_hints": [
+        "worst",
+        "terrible",
+        "disappointed",
+        "rude",
+        "never again"
+      ]
+    },
+    {
+      "intent": "escalation_human",
+      "description": "Customer explicitly asks for a human / supervisor / DM with PII.",
+      "keyword_hints": [
+        "speak to",
+        "manager",
+        "human",
+        "dm me",
+        "phone"
+      ]
+    },
+    {
+      "intent": "other",
+      "description": "Does not fit the intents above, or too little text to tell.",
+      "keyword_hints": []
+    }
+  ],
+  "labeling_rule": "Read the customer tweet (and prior tweets in the thread if needed). Pick exactly one intent. If two apply, pick the customer's main request. Use other when unsure. Do not guess from the brand reply alone."
+}
