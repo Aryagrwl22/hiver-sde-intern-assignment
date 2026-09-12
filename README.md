@@ -8,14 +8,14 @@ The system acts as an autonomous tier-1 support agent on Twitter. It classifies 
 **What this system intentionally does NOT attempt to build:**
 - We do not attempt to construct a multi-brand mega-classifier. The focus is strictly on one brand to mimic a realistic, specialized enterprise support environment.
 - We do not mix in out-of-domain datasets (like Banking77) to artificially inflate training data.
-- We do not allow the LLM to invent its own policies (hallucinate). All troubleshooting relies entirely on historical retrieved evidence.
+- We do not allow the LLM to invent unsupported troubleshooting policies. Auto-handled troubleshooting must be grounded in the retrieved historical evidence.
 - We do not allow the LLM to control high-risk actions. Sensitive intents such as hardware repair and account/billing issues trigger deterministic escalation to a human, preventing automatic resolution for these categories.
 
 ## 2. Dataset & Brand Selection
 **Dataset:** [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) (`twcs.csv`). 
 
 **Brand Selected:** `@AppleSupport`.  
-AppleSupport was selected because it has the largest volume of inbound conversations in the dataset, providing the richest pool of historical threads to build a robust semantic retrieval index.
+AppleSupport was selected because it provides a large, highly usable set of technical and actionable customer-support conversations, with enough repeated issue patterns to build a robust semantic retrieval index.
 
 ## 3. Intent Taxonomy
 The current AppleSupport taxonomy was custom-built after analyzing real tweet distributions. It contains 6 intents:
