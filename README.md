@@ -9,7 +9,7 @@ The system acts as an autonomous tier-1 support agent on Twitter. It classifies 
 - We do not attempt to construct a multi-brand mega-classifier. The focus is strictly on one brand to mimic a realistic, specialized enterprise support environment.
 - We do not mix in out-of-domain datasets (like Banking77) to artificially inflate training data.
 - We do not allow the LLM to invent its own policies (hallucinate). All troubleshooting relies entirely on historical retrieved evidence.
-- We do not use LLMs for high-risk topics. Sensitive intents (e.g., hardware repair, billing) trigger a deterministic safety escalation.
+- We do not allow the LLM to control high-risk actions. Sensitive intents such as hardware repair and account/billing issues trigger deterministic escalation to a human, preventing automatic resolution for these categories.
 
 ## 2. Dataset & Brand Selection
 **Dataset:** [Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) (`twcs.csv`). 
@@ -92,13 +92,13 @@ While 75.0% accuracy / 0.64 Macro F1 sounds solid, it has major limitations:
 4. **Ignoring Reply Quality:** The 75% accuracy metric ONLY scores intent classification. Reply quality was only judged on 25 examples, and as shown above, human-judge agreement was extremely weak.
 
 ## 9. Next Week / Future Improvements
-- **Few-Shot Prompting:** The LLM intent prompt is currently zero-shot. Adding the 63 failure examples into the prompt as few-shot demonstrations should immediately fix the tone-deaf and hardware vs software confusion issues.
+- **Few-Shot Prompting:** The LLM intent prompt is currently zero-shot. Adding representative failure examples as few-shot demonstrations could reduce hardware-vs-software and tone-related classification errors.
 - **Separate Sentiment Extraction:** Run a separate sentiment classification pass before intent classification to prevent angry tones from hijacking the intent router.
 - **Better Judge Rubric:** The LLM-as-Judge needs a vastly simplified binary rubric (Pass/Fail) rather than a 1-5 scale to improve human agreement.
 
 ## 10. Decision Log
 Here are 12 non-obvious decisions made during this project:
-1. **Hardcoded AppleSupport:** Picked because it's the largest single brand in the Kaggle dataset, giving the richest historical data for retrieval.
+1. **Hardcoded AppleSupport:** Picked because it has a large, highly usable set of conversations with technical and actionable support issues, making it well-suited for retrieval-based support.
 2. **Dropped Banking77:** Blending distinct domains compromises the realism of brand-specific customer support.
 3. **Switched to Groq (`qwen/qwen3.8-27b`):** Gemini free-tier suffered from frequent 503 errors during bulk evaluations.
 4. **Structured JSON (Pydantic):** Used Groq's OpenAI-compatible endpoint to guarantee perfectly parsable intent classifications.
