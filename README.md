@@ -56,7 +56,7 @@ All three systems below were evaluated strictly against the exact same **250 hum
 *(Note: These are the official, human-verified results. Do not confuse them with stale development metrics).*
 
 ## 6. LLM-As-Judge Evaluation
-To evaluate the quality of the generated replies, we implemented an LLM-as-Judge using a 1-5 scalar rubric measuring Correctness, Grounding, and Helpfulness. We took a sample of 25 agent replies and compared human grades to the LLM judge's grades.
+To evaluate the quality of the generated replies, we implemented an LLM-as-Judge using a 1-5 scalar rubric measuring Correctness, Grounding, Helpfulness, and Safety. We took a sample of 25 agent replies and compared human grades to the LLM judge's grades.
 
 **Agreement Results:**
 - **Weighted Cohen's Kappa:** 0.079
@@ -92,7 +92,7 @@ While 75.0% accuracy / 0.64 Macro F1 sounds solid, it has major limitations:
 4. **Ignoring Reply Quality:** The 75% accuracy metric ONLY scores intent classification. Reply quality was only judged on 25 examples, and as shown above, human-judge agreement was extremely weak.
 
 ## 9. Next Week / Future Improvements
-- **Few-Shot Prompting:** The LLM intent prompt is currently zero-shot. Adding representative failure examples as few-shot demonstrations could reduce hardware-vs-software and tone-related classification errors.
+- **Few-Shot Prompting:** The LLM intent prompt is currently zero-shot. Adding representative failure examples as few-shot demonstrations could reduce the hardware-vs-software and tone-related classification errors.
 - **Separate Sentiment Extraction:** Run a separate sentiment classification pass before intent classification to prevent angry tones from hijacking the intent router.
 - **Better Judge Rubric:** The LLM-as-Judge needs a vastly simplified binary rubric (Pass/Fail) rather than a 1-5 scale to improve human agreement.
 
